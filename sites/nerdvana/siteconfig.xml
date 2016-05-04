@@ -1,0 +1,5 @@
+<?xml version="1.0" ?>
+<GenRoBag>
+	<wsgi mainpackage="game"/>
+	<dojo version="11"/>
+</GenRoBag>
